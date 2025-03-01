@@ -1,0 +1,35 @@
+{
+  "Person1": {
+    "likes": ["meeting", "agenda", "report", "review"],
+    "dislikes": ["free", "prize", "discount"]
+  },
+  "Person2": {
+    "likes": ["assignment", "deadline", "campus", "tech talk"],
+    "dislikes": ["offer", "free", "prize"]
+  },
+  "Person3": {
+    "likes": ["investment", "market", "networking", "business"],
+    "dislikes": ["free", "prize", "discount"]
+  },
+  "Person4": {
+    "likes": ["grocery", "recipe", "dinner", "discount"],
+    "dislikes": ["spam", "offer", "free"]
+  },
+  "Person5": {
+    "likes": ["product", "update", "hackathon", "innovation"],
+    "dislikes": ["free", "prize", "discount"]
+  },
+  "Person6": {
+    "likes": ["conference", "CME", "research", "diagnostics"],
+    "dislikes": ["free", "offer", "discount"]
+  },
+  "Person7": {
+    "likes": ["training", "protocol", "announcement", "uniform"],
+    "dislikes": ["free", "discount", "offer"]
+  },
+  "Person8": {
+    "likes": ["game", "update", "levels", "exclusive"],
+    "dislikes": ["meeting", "work", "study"]
+  }
+}
+

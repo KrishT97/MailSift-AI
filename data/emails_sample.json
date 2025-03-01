@@ -1,0 +1,83 @@
+{
+  "Person1": [
+    {
+      "id": "office001",
+      "content": "Meeting agenda for tomorrow is attached. Please review the report and prepare your feedback."
+    },
+    {
+      "id": "office002",
+      "content": "Reminder: Quarterly performance review meeting is scheduled at 3 PM today in Conference Room B."
+    }
+  ],
+  "Person2": [
+    {
+      "id": "student001",
+      "content": "Your assignment deadline is approaching. Don't forget to submit your work by Friday evening."
+    },
+    {
+      "id": "student002",
+      "content": "Campus event: Join us for a tech talk on innovation in education and win exciting prizes."
+    }
+  ],
+  "Person3": [
+    {
+      "id": "business001",
+      "content": "Exclusive investment opportunity: Our latest market analysis indicates significant growth in the tech sector."
+    },
+    {
+      "id": "business002",
+      "content": "Invitation: Attend a high-level business networking event at the downtown conference center this Thursday."
+    }
+  ],
+  "Person4": [
+    {
+      "id": "housewife001",
+      "content": "This week's grocery deals are here! Save on your favorite brands and enjoy special discounts."
+    },
+    {
+      "id": "housewife002",
+      "content": "New recipe alert: Delicious and healthy dinner ideas for your family are waiting for you."
+    }
+  ],
+  "Person5": [
+    {
+      "id": "tech001",
+      "content": "Product update: The new version of our software is now available with enhanced performance and security features."
+    },
+    {
+      "id": "tech002",
+      "content": "Hackathon announcement: Join us this weekend to innovate, compete, and win exciting prizes."
+    }
+  ],
+  "Person6": [
+    {
+      "id": "doctor001",
+      "content": "Medical conference invitation: Learn about the latest breakthroughs in cardiology at our upcoming event."
+    },
+    {
+      "id": "doctor002",
+      "content": "Continuing education: Earn CME credits by participating in our online course on advanced diagnostics."
+    }
+  ],
+  "Person7": [
+    {
+      "id": "military001",
+      "content": "Training schedule update: New drills and uniform protocols will take effect next week. Please check your roster."
+    },
+    {
+      "id": "military002",
+      "content": "Announcement: A promotion board meeting is scheduled for all eligible recruits next month."
+    }
+  ],
+  "Person8": [
+    {
+      "id": "gamer001",
+      "content": "Game update: New levels, characters, and features are now available in your favorite game."
+    },
+    {
+      "id": "gamer002",
+      "content": "Exclusive offer: Get 50% off on gaming accessories this weekend only. Level up your gaming experience!"
+    }
+  ]
+}
+
