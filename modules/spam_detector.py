@@ -26,9 +26,3 @@ def predict_spam(email_text, tokenizer, model, threshold=0.5):
     is_spam = spam_score >= threshold
     return is_spam, spam_score
 
-
-if __name__ == "__main__":
-    tokenizer, model = load_spam_model()
-    sample_email = "Congratulations! You've won a free cruise. Click here to claim."
-    is_spam, score = predict_spam(sample_email, tokenizer, model)
-    print(f"Spam: {is_spam} (Score: {score:.2f})")
