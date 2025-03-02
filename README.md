@@ -205,6 +205,8 @@ For Businessman (Person 3):
 For Housewife (Person 4):
 - "New recipe alert: Delicious and healthy dinner ideas for your family are waiting for you."
 
+Test new inputs, with longer email body messages and different structures. Your contributions on improvement and further model enhancement are more than welcome :)
+
 ## License and Attribution
 
 This project is licensed under the terms defined in the LICENSE file. All contributions must maintain proper attribution to the original project owner.
