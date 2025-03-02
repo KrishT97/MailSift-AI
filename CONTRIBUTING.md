@@ -24,7 +24,7 @@ We appreciate your interest in contributing to **MailSift AI**! By contributing,
 5. **Submit a Pull Request:**
    - Open a pull request (PR) against the main branch.
    - In your PR description, explain the changes and why they are beneficial.
-   - **Important:** All contributions must include proper attribution to the original project and its owner (Krish Sadhwani). Attempts to remove or hide original attribution will result in the rejection of the PR.
+   - **Important:** All contributions must include proper attribution to the original project and its owner (Krish Sadhwani Mansukhani). Attempts to remove or hide original attribution will result in the rejection of the PR.
 
 ## Attribution and Ownership
 
