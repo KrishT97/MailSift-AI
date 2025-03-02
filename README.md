@@ -29,7 +29,7 @@ The training data was created by merging two Kaggle email spam detection dataset
 
 Emails typically beginning with "Subject: " and all types of body responses consisting of replies, promotion, urgent messages, meetings, events, bookings..etc
 
-More information on the technical details on the model approach can be found in the HuggingFace model link provided earlier.
+More information on the technical details on the model approach can be found: https://huggingface.co/KrishT97/spam-mail-detection/blob/main/pretrained/README.md
 
 ## Project Structure
 ```bash
