@@ -70,7 +70,7 @@ MailSift-AI/
 3. **Place the custom model files:**
 
    Ensure that the custom model (v1) files – `config.json, model.safetensors, special_tokens.map.json, tokenizer_config.json, and vocab.txt` – are placed in the _pretrained/v1/_ directory. Place the pretrained directory from the HuggingFace model repository: https://huggingface.co/KrishT97/spam-mail-detection/tree/main,
-into the project directory:
+into the project directory.
    
 ## Usage
 
