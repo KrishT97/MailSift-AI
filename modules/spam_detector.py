@@ -2,7 +2,7 @@
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 # Loading custom prebuilt model
-def load_spam_model(model_dir="C:\\Users\\krish\\Desktop\\MailSift-AI\\pretrained\\v1"):
+def load_spam_model(model_dir="your_absolute_path\\pretrained\\v1"):
     """
     Loads the custom v1 spam detection model from the local directory.
     The directory should contain:
