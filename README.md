@@ -27,7 +27,14 @@ v1 model can be found: https://huggingface.co/KrishT97/spam-mail-detection/tree/
 
 The training data was created by merging two Kaggle email spam detection datasets—each containing text (email Subject and Body) and label (binary values indicating "Spam" or "Not Spam") fields—to form a comprehensive CSV file with approximately 10,000 entries. The resulting dataset provided a balanced mix of spam and non-spam examples that were used to fine-tune the `bert-base-uncased` model for our binary classification task.
 
-Emails typically beginning with "Subject: " in first line and all types of body responses consisting of replies, promotion, urgent messages, meetings, events, bookings..etc
+Emails typically beginning with "Subject: " in first line and all types of body responses consisting of replies, promotion, urgent messages, meetings, events, bookings..etc, for example:
+
+```bash
+Subject: meters
+James ,
+is there any industrial meters in particular i need to watch the imbalances since we are close to the end of the month ?
+thanks - jason
+```
 
 More information on the technical details on the model approach can be found: https://huggingface.co/KrishT97/spam-mail-detection/blob/main/pretrained/README.md
 
