@@ -8,7 +8,7 @@ Ideally, MailSift AI model working with Gmail, Outlook and other email platforms
 
 Successive models will be created, improving on each version, trained on more data and finetuned in certain parameters.
 
-The project is more than open to be expanded, improved, communicated and be considered by the tech community. However, author of this project is Krish Sadhwani, with MIT license clarifying original ownership and attribution requirements, contribution guidelines can be found in `CONTRIBUTING.md`.
+The project is more than open to be expanded, improved, communicated and be considered by the tech community. However, author of this project is Krish Sadhwani Mansukhani, with MIT license clarifying original ownership and attribution requirements, contribution guidelines can be found in `CONTRIBUTING.md`.
 
 ## Features
 
@@ -171,7 +171,6 @@ _email_samples.json_:
 
 Upon processing, the AI model delivers the following results in a few seconds (running main.py).
 The custom detection model processes the email content if it is Spam or Not Spam, if the email is Spam, it will print 'Spam' and its spam score. If the email is Not Spam, it will be further analyzed by the user preference sorting algorithm, which will identify if the email is of High Priority or Low Priority.
-:
 
 ```bash
 Results for Person1:
@@ -215,5 +214,5 @@ This project is licensed under the terms defined in the LICENSE file. All contri
 We welcome contributions! Please see CONTRIBUTING.md for details on our code of conduct, contribution guidelines, and how to submit pull requests.
 
 ## Contact
-For any questions or suggestions, please open an issue or contact the project owner Krish Sadhwani at techination.official@gmail.com
+For any questions or suggestions, please open an issue or contact the project owner Krish Sadhwani Mansukhani at techination.official@gmail.com
 
