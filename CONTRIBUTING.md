@@ -28,7 +28,7 @@ We appreciate your interest in contributing to **MailSift AI**! By contributing,
 
 ## Attribution and Ownership
 
-- **Original Developer:** Krish Sadhwani is the original creator and owner of MailSift AI.
+- **Original Developer:** Krish Sadhwani Mansukhani is the original creator and owner of MailSift AI.
 - **Attribution:** Any published work, derivative projects, or significant code changes must clearly acknowledge the original project and owner.
 - **Claiming Ownership:** No contributor may claim full ownership of MailSift AI or remove existing attribution.
 
